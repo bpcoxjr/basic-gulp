@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["app.js"],"sourcesContent":["var testButton = document.getElementById('test-button');\n\ntestButton.addEventListener('click', alertClick);\n\nfunction alertClick() {\n  alert('Minified JS file is all good!');\n}"],"file":"app.js"}

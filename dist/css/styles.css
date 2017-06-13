@@ -1,0 +1,24 @@
+.container {
+  text-align: center; }
+  .container .header {
+    color: #455C73;
+    font-family: 'Roboto Regular', sans-serif;
+    font-size: 3em;
+    border-bottom: 4px solid #455C73;
+    padding-bottom: 0.5em; }
+  .container .gulp-img {
+    margin-bottom: 2em; }
+  .container #test-button {
+    padding: 1em 2em;
+    color: #fff;
+    background-color: #1dcaff;
+    border: #00aced;
+    border-radius: 5px;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-family: 'Roboto Regular', sans-serif;
+    font-size: 1em; }
+    .container #test-button:hover {
+      background-color: #00aced; }
+
+/*# sourceMappingURL=styles.css.map */
